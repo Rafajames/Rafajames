@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-label="Jamerson Rafael, Analista de Field Service e desenvolvedor web">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#12233f"/>
+    </linearGradient>
+    <linearGradient id="ac" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2dd4bf"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#ffffff" fill-opacity=".06"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#dots)"/>
+
+  <!-- pecas encaixadas: ferramentas, jogos e apps -->
+  <g transform="translate(868 54)">
+    <rect x="0" y="0" width="60" height="60" rx="10" fill="#2dd4bf"/>
+    <rect x="66" y="0" width="60" height="60" rx="10" fill="#2dd4bf" fill-opacity=".55"/>
+    <rect x="132" y="0" width="60" height="60" rx="10" fill="none" stroke="#38bdf8" stroke-opacity=".5" stroke-width="2"/>
+    <rect x="198" y="0" width="60" height="60" rx="10" fill="#38bdf8" fill-opacity=".3"/>
+    <rect x="0" y="66" width="60" height="60" rx="10" fill="none" stroke="#2dd4bf" stroke-opacity=".5" stroke-width="2"/>
+    <rect x="66" y="66" width="60" height="60" rx="10" fill="#38bdf8"/>
+    <rect x="132" y="66" width="60" height="60" rx="10" fill="#38bdf8" fill-opacity=".55"/>
+    <rect x="198" y="66" width="60" height="60" rx="10" fill="none" stroke="#38bdf8" stroke-opacity=".35" stroke-width="2"/>
+    <rect x="0" y="132" width="60" height="60" rx="10" fill="#2dd4bf" fill-opacity=".25"/>
+    <rect x="66" y="132" width="60" height="60" rx="10" fill="none" stroke="#2dd4bf" stroke-opacity=".35" stroke-width="2"/>
+    <rect x="132" y="132" width="60" height="60" rx="10" fill="#fbbf24"/>
+    <rect x="198" y="132" width="60" height="60" rx="10" fill="#fbbf24" fill-opacity=".35"/>
+  </g>
+
+  <g font-family="'Segoe UI',Helvetica,Arial,sans-serif" fill="#ffffff">
+    <text x="72" y="96" font-size="20" font-weight="600" fill="#2dd4bf" letter-spacing="3">OLÁ, EU SOU O JAMES</text>
+    <text x="70" y="160" font-size="60" font-weight="700">Jamerson Rafael</text>
+    <rect x="72" y="182" width="96" height="5" rx="2.5" fill="url(#ac)"/>
+    <text x="72" y="226" font-size="24" fill="#cbd5e1">Analista de Field Service · Desenvolvedor web</text>
+    <text x="72" y="258" font-size="18" fill="#94a3b8">Ferramentas, jogos e apps que abrem direto no navegador</text>
+  </g>
+</svg>
