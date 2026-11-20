@@ -13,7 +13,7 @@ Trabalho com suporte técnico na TI do Tribunal de Justiça de Roraima. Foi no c
 
 ## Projetos em destaque
 
-Todos abrem direto no navegador. Clique em **Abrir** para testar.
+Ferramentas que abrem direto no navegador. Clique em **Abrir** para testar.
 
 <table>
   <tr>
@@ -38,20 +38,6 @@ Todos abrem direto no navegador. Clique em **Abrir** para testar.
       <a href="https://rafajames.github.io/Minha-carteira/"><b>Abrir</b></a> · <a href="https://github.com/Rafajames/Minha-carteira">Código</a>
     </td>
     <td valign="top">
-      <h3>🧩 Shape Puzzle</h3>
-      Quebra-cabeça lógico para navegador e Android, com música gerada por código, ranking, campeonatos e 13 idiomas.<br><br>
-      <code>JavaScript</code> <code>Firebase</code> <code>Capacitor</code><br><br>
-      <a href="https://rafajames.github.io/ShapePuzzle/"><b>Jogar</b></a> · <a href="https://github.com/Rafajames/ShapePuzzle">Código</a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h3>🚀 Navinha Espacial</h3>
-      Jogo de nave com 8 naves, 12 inimigos e 5 chefes. Nasceu em Java e ganhou uma versão web para celular e PC.<br><br>
-      <code>JavaScript</code> <code>Java</code><br><br>
-      <a href="https://rafajames.github.io/Navinha/"><b>Jogar</b></a> · <a href="https://github.com/Rafajames/Navinha">Código</a>
-    </td>
-    <td valign="top">
       <h3>🎵 Meusom</h3>
       Transforma uma música ou cantarola em versão calma e instrumental para sono e foco. O áudio não sai do computador.<br><br>
       <code>JavaScript</code> <code>Web Audio</code><br><br>
@@ -60,10 +46,33 @@ Todos abrem direto no navegador. Clique em **Abrir** para testar.
   </tr>
 </table>
 
+## 🎮 Jogos para testar
+
+Sem instalar nada: abrem no navegador e funcionam no celular e no computador. Se jogar, me conta o que achou!
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🧩 Shape Puzzle</h3>
+      Quebra-cabeça lógico com fases infinitas, música gerada por código, ranking, campeonatos e 13 idiomas.<br><br>
+      <a href="https://rafajames.github.io/ShapePuzzle/"><b>▶ Jogar</b></a> · <a href="https://github.com/Rafajames/ShapePuzzle">Código</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🚀 Navinha Espacial</h3>
+      Jogo de nave com 8 naves, 12 inimigos e 5 chefes. Nasceu em Java e ganhou versão web com controle por toque.<br><br>
+      <a href="https://rafajames.github.io/Navinha/"><b>▶ Jogar</b></a> · <a href="https://github.com/Rafajames/Navinha">Código</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🎲 Passe &amp; Bate</h3>
+      Dominó Passe e Bate e All Fives com regras regionais configuráveis. Jogue contra bots em quatro níveis.<br><br>
+      <a href="https://rafajames.github.io/Domino-passe-bate/"><b>▶ Jogar</b></a> · <a href="https://github.com/Rafajames/Domino-passe-bate">Código</a>
+    </td>
+  </tr>
+</table>
+
 ## Também por aqui
 
 - **[Seu Assistente](https://github.com/Rafajames/seu-assistente)**: tarefas e diário para Android e web, com lembretes por voz. [Abrir](https://rafajames.github.io/seu-assistente/)
-- **[Passe & Bate](https://github.com/Rafajames/Domino-passe-bate)**: dominó com regras regionais configuráveis e modo solo contra bots. [Jogar](https://rafajames.github.io/Domino-passe-bate/)
 - **[Diário da Cefaleia](https://github.com/Rafajames/Diario-cefaleia-)**: acompanhamento de dores de cabeça para pacientes e profissionais, em pré-produção.
 
 ## Como eu trabalho
